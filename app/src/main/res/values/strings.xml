@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Flashlight</string>
+    <string name="on">Switch On</string>
+    <string name="off">Switch Off</string>
+    <string name="noCamera">no camera</string>
+    <string name="noFlash">no flashlight</string>
+    <string name="thisNoCamera">This device has no camera</string>
+    <string name="thisNoFlash">This device has no flashlight</string>
+    <string name="autoFlash">Auto Flashlight</string>
+</resources>
